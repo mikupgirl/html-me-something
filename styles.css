@@ -1,0 +1,58 @@
+body {
+	background-color: #7AA27F;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+    text-align: center;  
+}
+.main-image img {
+    width: 1200px;
+    height: 600px;
+    position: relative;  
+}
+a {
+    color: #08931A;
+}
+#firstParagraph {
+    text-align: center;
+    font-size: 20px;
+}
+.all-text { 
+    font-size: 18px;
+    color: #1B3C1F;
+}
+.main-header {
+    color: #483D8B;
+}
+.wake-up-link img {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 8px;
+    width: 1200px;
+    height: 600px;
+}
+.open-world img {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 8px;
+    width: 1200px;
+    height: 600px;
+}
+
+.shrine-images img {
+    width: 530px;
+    height: 360px;
+    float: left;
+    margin: 0 0 10px 10px;
+    border: 3px solid green;
+    position: static;   
+}
+.fry-meme img {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+}
